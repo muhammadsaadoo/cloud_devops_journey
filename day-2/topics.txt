@@ -1,0 +1,11 @@
+Today topics
+What is Linux? Kernel vs shell vs distro?
+Why is Linux preferred for servers?
+Explain the Linux directory structure. What do /etc, /var, /home, /tmp hold?
+Absolute vs relative path?
+What does “everything is a file” mean?
+How do you view the last 100 lines of a log, and how do you watch it live?
+How do you find all lines containing “error” in a file and count them?
+What does | do? What is the difference between > and >>?
+How do you find a file named nginx.conf on a server?
+cp vs mv? What is dangerous about rm -rf?
